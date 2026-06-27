@@ -94,6 +94,4 @@ The model classifies messages into categories such as:
 Raaga Sudha — LinkedIn: https://www.linkedin.com/in/raagasudha06/ · Github: https://github.com/Sudha0626/
 
 Built during AI & Data Analytics Internship at AICTE-Shell Edunet Foundation, Chennai (Jan–Feb 2025)
-**Raaga Sudha** — [LinkedIn](https://linkedin.com/in/raagasudha06) · [GitHub](https://github.com/Sudha0626)
 
-*Built during AI & Data Analytics Internship at AICTE-Shell Edunet Foundation, Chennai (Jan–Feb 2025)*
